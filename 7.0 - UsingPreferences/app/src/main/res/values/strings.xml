@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UsingPreferences</string>
+    <string name="btn_load_preferences">Load Preferences Screen</string>
+    <string name="btn_display_values">Display Preferences Values</string>
+    <string name="btn_modify_values">Modify Preferences Values</string>
+</resources>
